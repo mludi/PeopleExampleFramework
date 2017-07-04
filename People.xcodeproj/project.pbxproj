@@ -404,6 +404,7 @@
 				4CDB2F131F0B8B42004D696C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4CDB2F311F0B8C43004D696C /* Build configuration list for PBXNativeTarget "PeopleTests-iOS" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +413,7 @@
 				4CDB2F331F0B8C43004D696C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
