@@ -10,4 +10,8 @@ import Foundation
 
 public struct Person {
     let name: String
+    
+    public init(name: String) {
+        self.name = name
+    }    
 }
